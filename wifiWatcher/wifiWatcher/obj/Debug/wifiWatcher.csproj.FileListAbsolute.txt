@@ -1,0 +1,12 @@
+C:\Users\Peter Richardson\Documents\Visual Studio 2008\Projects\macavalon\utilities\network_tools\wifiWatcher\wifiWatcher\bin\Debug\wifiWatcher.exe.config
+C:\Users\Peter Richardson\Documents\Visual Studio 2008\Projects\macavalon\utilities\network_tools\wifiWatcher\wifiWatcher\bin\Debug\wifiWatcher.exe
+C:\Users\Peter Richardson\Documents\Visual Studio 2008\Projects\macavalon\utilities\network_tools\wifiWatcher\wifiWatcher\bin\Debug\wifiWatcher.pdb
+C:\Users\Peter Richardson\Documents\Visual Studio 2008\Projects\macavalon\utilities\network_tools\wifiWatcher\wifiWatcher\obj\Debug\wifiWatcher.exe
+C:\Users\Peter Richardson\Documents\Visual Studio 2008\Projects\macavalon\utilities\network_tools\wifiWatcher\wifiWatcher\obj\Debug\wifiWatcher.pdb
+C:\Users\Peter Richardson\Documents\Visual Studio 2008\Projects\macavalon\utilities\network_tools\wifiWatcher\wifiWatcher\obj\Debug\wifiWatcher.csprojResolveAssemblyReference.cache
+C:\Users\Peter Richardson\Documents\GitHub\wifiWatcher\wifiWatcher\bin\Debug\wifiWatcher.exe.config
+C:\Users\Peter Richardson\Documents\GitHub\wifiWatcher\wifiWatcher\obj\Debug\wifiWatcher.exe
+C:\Users\Peter Richardson\Documents\GitHub\wifiWatcher\wifiWatcher\obj\Debug\wifiWatcher.pdb
+C:\Users\Peter Richardson\Documents\GitHub\wifiWatcher\wifiWatcher\obj\Debug\wifiWatcher.csprojResolveAssemblyReference.cache
+C:\Users\Peter Richardson\Documents\GitHub\wifiWatcher\wifiWatcher\bin\Debug\wifiWatcher.exe
+C:\Users\Peter Richardson\Documents\GitHub\wifiWatcher\wifiWatcher\bin\Debug\wifiWatcher.pdb
